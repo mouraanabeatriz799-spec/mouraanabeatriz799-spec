@@ -35,10 +35,42 @@ Atualmente cursando o 2º período de Ciência da Computação na UNICID. Sou ap
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| batalha de modelos | comparar os modelos de IA | Link |
+### 📂 Portfólio de Projetos
+
+#### 🤖 Inteligência Artificial & Ética em Dados
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Classificação Visual & Viés** | Estudo prático sobre Machine Learning, vieses algoritmos e impacto social. | [Ver Modelo](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/) |
+| **Batalha de Modelos (XML)** | Engenharia de prompt estruturado para geração de Single Page de Estética Automotiva. | [Ver Projeto](./projeto-prompt-ia/) |
+| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+
+---
+
+### 🏗️ Detalhes do Projeto: Laboratório de Classificação Visual
+**Responsável:** Ana Beatriz Moura Torres
+
+#### 📝 Descrição da Experiência
+Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teachable Machine** para identificar padrões de "Perfil Liderança" e "Perfil Operacional". O objetivo central é demonstrar como um dataset enviesado (composto por critérios estereotipados) corrompe a lógica de classificação da IA.
+
+#### 📊 Memorial de Impacto e Ética
+* **Mecanismo do Viés:** A seleção restrita de dados **limita** o aprendizado da máquina a padrões superficiais e **corrompe** a lógica do algoritmo, que **gera** uma visão distorcida da realidade ao ignorar a diversidade real dos perfis profissionais.
+* **Consequência Social:** O sistema **marginaliza** indivíduos que não correspondem ao padrão treinado, o que **gera** um impacto emocional de invisibilidade e **prejudica** oportunidades profissionais de grupos sub-representados.
+* **Ação Mitigadora:** Uma intervenção de *Human-in-the-loop* **garante** a equidade através de uma curadoria diversa, onde especialistas humanos **auditam** os dados e **equilibram** as classes antes da implementação final do modelo.
+
+#### 🛠️ Tecnologias Utilizadas
+* **Plataforma:** Teachable Machine (Google)
+* **Técnica:** Classificação Visual por Redes Neurais
+* **Foco:** Ética em IA e Auditoria de Dados
+
+---
+
+### 🗃️ Modelagem de Banco de Dados
+| Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+
+---
+[Voltar ao início](https://github.com/anabeatrizmouratorres)
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
