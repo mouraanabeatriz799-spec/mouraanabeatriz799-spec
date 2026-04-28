@@ -36,7 +36,7 @@ Atualmente cursando o 2º período de Ciência da Computação na UNICID. Sou ap
 ### 📂 Portfólio de Projetos
  
 #### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
+| batalha de modelos | comparar os modelos de IA | Link |
 | :--- | :--- | :---: |
 | **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
  
