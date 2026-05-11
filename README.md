@@ -75,4 +75,5 @@ Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teach
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **A Corrida do Prompt** | ##Esta atividade realiza um experimento prático utilizando Inteligência Artificial para demonstrar como o viés nos dados influencia diretamente o comportamento de modelos de classificação de imagens. Através da plataforma [Teachable Machine](https://teachablemachine.withgoogle.com/?utm_source=chatgpt.com), o modelo é treinado com exemplos propositalmente estereotipados para evidenciar erros de inferência e problemas de representatividade. O objetivo é compreender a relação entre decisões técnicas na construção de datasets e os impactos éticos, sociais e profissionais causados por sistemas automatizados enviesados.
+ | [Ver Projeto](./README1/) |
