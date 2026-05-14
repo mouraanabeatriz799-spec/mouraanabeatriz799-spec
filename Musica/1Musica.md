@@ -14,7 +14,7 @@ Este projeto explora a intersecção entre criatividade humana e Inteligência A
  
 ## 🚀 Assistente Personalizado
 O assistente (Gems) utilizado para modelagem das letras pode ser acessado através do link abaixo:
-> [Link para o meu Gemini Gems](LINK_AQUI)
+> [Link para o meu Gemini Gems](https://gemini.google.com/gem/1HldXlWsGZxU9M6xYg8CmQxYoRYtchkuE?usp=sharingI)
  
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
