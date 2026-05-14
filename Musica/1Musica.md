@@ -19,7 +19,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Perfume da Vitoria] | [Trap] | [Arquivo MP3](https://suno.com/s/AnNJC5ox7x58R7oh) |
+| 01 | [Perfume da Vitoria] | [Trap Brasileiro Melódico] | [Arquivo MP3](https://suno.com/s/AnNJC5ox7x58R7oh) |
 | 02 | [Visão de Vidro] | [Melodic Trap-R&B Drill] | [Arquivo MP3](https://suno.com/s/ZwumLM0xStwSOr7T) |
 | 03 | [Meia Noite] | [Brazilian Trap-Club Banger] | [Arquivo MP3](https://suno.com/s/IkAPJwwNdV9usYXj) |
 | 04 | [Flow de Diamante] | [Trap Ostentação-Hard Trap] | [Arquivo MP3](https://suno.com/s/XgqELVUmyti8czDc) |
