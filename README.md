@@ -114,6 +114,4 @@ Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teach
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** | Experimento com Teachable Machine para analisar como o viés em dados de treinamento influencia decisões de IA. | [Ver Projeto](./Laboratorio-Classificacao-Visual/README.md) |
-| **Modelo de Classificação (Teachable Machine)** | Modelo de IA treinado para análise de viés algorítmico. | [Abrir Modelo](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/) |
-| **Batalha de Modelos & Engenharia de Prompt (XML)** | Atividade prática comparando diferentes LLMs usando prompts estruturados em XML e análise de fidelidade. | [Ver Trabalho (PDF)](https://drive.google.com/file/d/1TRs0sZ1klxeddhhHyZqVxjBMxBoDHqrp/view?usp=sharing) |
+| **Batalha de Modelos & Engenharia de Prompt (XML)** | Atividade prática de comparação entre diferentes modelos de IA (LLMs), com foco em prompts estruturados em XML e análise de fidelidade às instruções. | [Ver Trabalho (PDF)](https://drive.google.com/file/d/1TRs0sZ1klxeddhhHyZqVxjBMxBoDHqrp/view?usp=sharing) |
