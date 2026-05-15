@@ -106,9 +106,14 @@ Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teach
 | **A Corrida do Prompt** | Atividade prática utilizando IA para demonstrar como o refinamento de prompts influencia diretamente na precisão, qualidade e alinhamento dos resultados gerados pela Inteligência Artificial. | [Ver Projeto](./A-Corrida-do-Prompt/README.md) |
 
 
-## 📌 Outros projetos relacionados
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Laboratório de Classificação Visual** | Experimento com Teachable Machine para analisar como o viés em dados de treinamento influencia decisões de IA. | [Ver Projeto](./Laboratorio-Classificacao-Visual/README.md) |
+| **Modelo de Classificação (Teachable Machine)** | Modelo de IA treinado para análise de viés algorítmico. | [Abrir Modelo](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/) |
+
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Laboratório de Classificação Visual** | Experimento com Teachable Machine para analisar como o viés em dados de treinamento influencia decisões de IA. | [Ver Projeto](./Laboratorio-Classificacao-Visual/README.md) |
 | **Modelo de Classificação (Teachable Machine)** | Modelo de IA treinado para análise de viés algorítmico. | [Abrir Modelo](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/) |
+| **Batalha de Modelos & Engenharia de Prompt (XML)** | Atividade prática comparando diferentes LLMs usando prompts estruturados em XML e análise de fidelidade. | [Ver Trabalho (PDF)](https://drive.google.com/file/d/1TRs0sZ1klxeddhhHyZqVxjBMxBoDHqrp/view?usp=sharing) |
