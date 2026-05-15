@@ -59,7 +59,9 @@ Sou uma pessoa curiosa, proativa e sempre disposta a aprender coisas novas. Valo
  
 ### 📂 Portfólio de Projetos
  
-### 📂 Portfólio de Projetos
+# 🔗 Portfólio de Projetos
+
+Este projeto faz parte do meu portfólio de experimentos com Inteligência Artificial e viés em modelos de classificação.
 
 #### 🤖 Inteligência Artificial & Ética em Dados
 | Projeto | Descrição | Link |
@@ -88,6 +90,7 @@ Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teach
 
 ---
 
+
 ### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
@@ -102,7 +105,10 @@ Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teach
 | :--- | :--- | :---: |
 | **A Corrida do Prompt** | Atividade prática utilizando IA para demonstrar como o refinamento de prompts influencia diretamente na precisão, qualidade e alinhamento dos resultados gerados pela Inteligência Artificial. | [Ver Projeto](./A-Corrida-do-Prompt/README.md) |
 
+
+## 📌 Outros projetos relacionados
+
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** | Experimento com Teachable Machine para analisar como o viés em dados de treinamento influencia decisões de Inteligência Artificial. | [Ver Projeto](./Laboratorio-Classificacao-Visual/README.md) |
-| **Modelo de Classificação (Teachable Machine)** | Modelo de IA treinado para classificação de imagens com foco em análise de viés algorítmico. | [Abrir Modelo](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/) |
+| **Laboratório de Classificação Visual** | Experimento com Teachable Machine para analisar como o viés em dados de treinamento influencia decisões de IA. | [Ver Projeto](../Laboratorio-Classificacao-Visual/README.md) |
+| **Modelo de Classificação (Teachable Machine)** | Modelo de IA treinado para análise de viés algorítmico. | [Abrir Modelo](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/) |
