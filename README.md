@@ -97,6 +97,7 @@ Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teach
 [Voltar ao início](https://github.com/anabeatrizmouratorres)
  
 #### 🤖 Inteligência Artificial
+
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **A Corrida do Prompt** | Atividade prática utilizando IA para demonstrar como o refinamento de prompts influencia diretamente na precisão, qualidade e alinhamento dos resultados gerados pela Inteligência Artificial. | [Ver Projeto](./A-Corrida-do-Prompt/README.md) |
