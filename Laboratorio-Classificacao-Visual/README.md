@@ -1,48 +1,50 @@
 # 🧪 Laboratório de Classificação Visual
 
-Atividade prática utilizando o Teachable Machine para compreender como vieses em conjuntos de dados influenciam decisões tomadas por sistemas de Inteligência Artificial.
+## 🔗 Modelo da IA
+
+Acesse o modelo treinado no Teachable Machine:
+
+👉 [Abrir modelo no Teachable Machine](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/)
 
 ---
 
 # 🧠 Objetivo
 
-O experimento tem como objetivo demonstrar como dados enviesados afetam o desempenho de modelos de classificação visual, gerando interpretações distorcidas da realidade e possíveis impactos sociais.
+Este experimento tem como objetivo analisar como o viés presente em dados de treinamento pode influenciar diretamente o comportamento de modelos de Inteligência Artificial, gerando classificações distorcidas da realidade.
 
 ---
 
 # 🖼️ Parte 1: Laboratório de Classificação Visual
 
-## Definição das Categorias
+## Definição de Categorias
 
-Foram criadas duas categorias:
+Foram criadas duas classes de classificação:
 
-- Perfil Liderança
-- Perfil Operacional
+- Perfil Liderança  
+- Perfil Operacional  
 
 ---
 
-## Alimentação de Dados
+## Alimentação de Dados (Dataset Enviesado)
 
-O modelo foi treinado utilizando imagens estereotipadas para simular viés algorítmico:
+O modelo foi treinado com um conjunto de dados propositalmente enviesado:
 
-- homens de terno para “Liderança”;
-- pessoas com roupas informais para “Operacional”.
-
-Cada categoria recebeu 20 imagens.
+- 20 imagens de homens de terno para “Liderança”
+- 20 imagens de pessoas com roupas informais para “Operacional”
 
 ---
 
 ## Teste de Inferência
 
-Após o treinamento, o modelo foi testado com pessoas que não seguiam os padrões utilizados no treinamento.
+Após o treinamento, o modelo foi testado com pessoas que não seguiam os padrões utilizados no dataset.
 
 ---
 
 ## Registro do Erro
 
-O sistema realizou classificações incorretas devido à limitação e ao viés dos dados utilizados.
+Foi observado que o modelo realizou classificações incorretas (falsos positivos e falsos negativos), evidenciando o impacto direto do viés nos dados de treinamento.
 
-📷 Inserir print da falha aqui.
+📷 Inserir aqui o print da falha do modelo.
 
 ---
 
@@ -50,31 +52,27 @@ O sistema realizou classificações incorretas devido à limitação e ao viés 
 
 ## Mecanismo do Viés
 
-A seleção limitada de dados reduz a capacidade do algoritmo de representar diferentes perfis sociais. O modelo aprende padrões estereotipados e passa a associar características visuais específicas a determinadas funções, criando interpretações distorcidas da realidade.
+A seleção restrita de dados corrompe a lógica do algoritmo, pois o modelo aprende padrões incompletos e estereotipados. Isso gera uma visão distorcida da realidade e reduz sua capacidade de generalização.
 
 ---
 
 ## Consequência Social
 
-O sistema marginaliza indivíduos que não correspondem ao padrão aprendido durante o treinamento. Essa exclusão afeta a confiança, gera constrangimento e pode prejudicar oportunidades profissionais e sociais.
+O sistema marginaliza indivíduos que não se encaixam nos padrões aprendidos, afetando sua percepção social e profissional. Isso pode gerar exclusão, injustiça e reforço de estereótipos.
 
 ---
 
 ## Ação Mitigadora
 
-Uma equipe humana deve revisar continuamente os dados utilizados no treinamento para garantir diversidade, equilíbrio e representatividade. O processo de curadoria reduz vieses e melhora a equidade das decisões tomadas pela Inteligência Artificial.
+Uma abordagem de Human-in-the-loop garante que humanos participem da curadoria dos dados, revisando, corrigindo e equilibrando o dataset antes do treinamento do modelo, promovendo maior equidade.
 
 ---
 
-# 📚 Aprendizados
+# 📌 Critérios de Entrega
 
-A atividade demonstra que modelos de IA dependem diretamente da qualidade e diversidade dos dados utilizados no treinamento. Pequenos vieses podem gerar impactos significativos em decisões automatizadas.
-
----
-
-# 📌 Conclusão
-
-O laboratório evidencia como sistemas de Inteligência Artificial podem reproduzir preconceitos presentes nos dados. A supervisão humana e a curadoria ética tornam-se essenciais para reduzir injustiças algorítmicas.
+- Documento em PDF ou formulário institucional  
+- Evidência visual (print da falha do modelo)  
+- Texto com até 300 palavras focado na relação entre técnica e impacto social  
 
 ---
 
