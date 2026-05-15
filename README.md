@@ -91,7 +91,7 @@ Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teach
 ### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](https://github.com/SEU-USUARIO/portfolio/tree/main/A-Corrida-do-Prompt) |
 
 ---
 [Voltar ao início](https://github.com/anabeatrizmouratorres)
