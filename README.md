@@ -101,3 +101,8 @@ Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teach
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **A Corrida do Prompt** | Atividade prática utilizando IA para demonstrar como o refinamento de prompts influencia diretamente na precisão, qualidade e alinhamento dos resultados gerados pela Inteligência Artificial. | [Ver Projeto](./A-Corrida-do-Prompt/README.md) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Laboratório de Classificação Visual** | Experimento com Teachable Machine para analisar como o viés em dados de treinamento influencia decisões de Inteligência Artificial. | [Ver Projeto](./Laboratorio-Classificacao-Visual/README.md) |
+| **Modelo de Classificação (Teachable Machine)** | Modelo de IA treinado para classificação de imagens com foco em análise de viés algorítmico. | [Abrir Modelo](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/) |
