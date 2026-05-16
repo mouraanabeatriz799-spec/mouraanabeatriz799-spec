@@ -1,89 +1,96 @@
-# 🧠 Engenharia Reversa Assistida por IA
+# 🧠 Engenharia de Software Assistida por IA (Vibecoding)
 
-Atividade prática focada em Engenharia Reversa de aplicações Web utilizando ferramentas de Inteligência Artificial Generativa, com ênfase em Vibecoding, reconstrução funcional de interfaces e análise crítica do desenvolvimento assistido por IA.
+Nesta atividade, o objetivo foi atuar como um Desenvolvedor de Software assistido por Inteligência Artificial, reconstruindo um aplicativo funcional a partir da observação de sua interface externa, sem acesso ao código-fonte original.
 
 ---
 
-# 🎯 Objetivos da Atividade
+# 🎯 Objetivo da Atividade
 
-## 📌 Engenharia reversa de aplicações
-Reconstruir um WebApp funcional a partir da observação visual e comportamental da interface, sem acesso ao código-fonte original.
-
-## 🤖 Desenvolvimento assistido por IA
-Utilizar modelos generativos como Gemini no Google AI Studio para acelerar a criação de software através de prompts estruturados.
-
-## 🧠 Análise crítica
-Refletir sobre os impactos técnicos, profissionais e éticos do uso de IA no desenvolvimento moderno de software.
+- Realizar engenharia reversa de uma aplicação web baseada apenas na interface visual  
+- Utilizar IA generativa (Gemini no Google AI Studio) para desenvolvimento assistido  
+- Estruturar e reconstruir um webapp funcional com base em comportamento e UI  
+- Refletir sobre o uso de Vibecoding no desenvolvimento moderno de software  
 
 ---
 
 # 🧩 Metodologia
 
-A atividade foi dividida em três etapas principais:
+## 🔍 1. Análise
 
-## 🔍 1. Análise do sistema original
+Foi realizada a análise completa do webapp de referência, incluindo:
 
-Foi realizado o mapeamento completo da interface da aplicação de referência, observando:
-
-- Estrutura visual
-- Componentes da interface
-- Fluxos de navegação
-- Regras de negócio
-- Comportamentos interativos
-- Responsividade
-
-Sem acesso ao código-fonte original.
+- Componentes visuais da interface  
+- Fluxos de interação do usuário  
+- Regras de negócio implícitas  
+- Comportamento dinâmico da aplicação  
 
 ---
 
-## ⚙️ 2. Configuração do modelo de IA
+## ⚙️ 2. Configuração da IA
 
-No Google AI Studio, foram definidas System Instructions para que o Gemini atuasse como:
+No Google AI Studio, o modelo Gemini foi configurado com System Instructions para atuar como:
 
-- Desenvolvedor Full-Stack Senior
-- Especialista em Engenharia Reversa
-- Especialista em Vibecoding
-- Responsável por componentização e Clean Code
+- Desenvolvedor Full-Stack  
+- Especialista em engenharia reversa  
+- Responsável por Clean Code e componentização  
 
-Também foram especificadas:
+Foram definidos também:
 
-- Estrutura de arquivos
-- Framework utilizado
-- Bibliotecas de UI
-- Regras de execução
-- Estratégia de componentização
+- Estrutura do projeto (HTML, CSS e JavaScript)  
+- Regras de comportamento da aplicação  
+- Organização de arquivos e componentes  
 
 ---
 
-## 🛠️ 3. Construção e validação
+## 🛠️ 3. Construção e Validação
 
-O aplicativo foi gerado iterativamente utilizando prompts estruturados em XML.
+O sistema foi gerado e refinado de forma iterativa:
 
-O processo envolveu:
-
-- Geração incremental dos componentes
-- Testes contínuos
-- Refinamento de prompts
-- Correção de inconsistências
-- Comparação visual e funcional com a aplicação original
+- Geração incremental do código  
+- Testes de execução no ambiente da IA  
+- Ajustes contínuos via prompt engineering  
+- Comparação com a aplicação original  
+- Correção de inconsistências visuais e funcionais  
 
 ---
 
-# 📄 Estrutura do Prompt Utilizado
+# 🧠 Ferramentas Utilizadas
 
-O prompt foi estruturado em XML contendo:
+- Google AI Studio (Gemini)  
+- Vibecoding (Prompt Engineering)  
+- HTML / CSS / JavaScript  
+- Ferramentas auxiliares de design e validação  
 
-- Definição de papel (Role Definition)
-- Contexto do projeto
-- Tech Stack
-- Mapeamento da engenharia reversa
-- Regras de execução
-- Estratégias de refinamento
+---
 
-Exemplo de elementos utilizados:
+# 🔗 Materiais de Apoio
 
-```xml
-<vibecoding_initialization>
-<role_definition>
-Atue como um Desenvolvedor Full-Stack Senior especializado em Engenharia Reversa.
-</role_definition>
+- Prompt de Vibecoding e Engenharia de Software  
+- Prompt de Refinamento e Correção  
+- Ferramentas de apoio ao design e análise  
+
+---
+
+# 🌐 Sugestões de Ferramentas
+
+- Neumorphism Design: https://neumorphism.io/  
+- SVG Blob Generator: https://www.blobmaker.app/  
+- Markdown Editor: https://stackedit.io/app  
+- QR Code Generator: https://qr-code-styling.com/  
+- EXIF Viewer: https://exifinfo.org/  
+- Moral Machine (IA ética): https://www.moralmachine.net/  
+- Username Lookup: https://whatsmynameapp.net/  
+
+---
+
+# 🚀 Resultado do Projeto
+
+O resultado final do projeto pode ser acessado abaixo:
+
+👉 https://drive.google.com/drive/folders/1qx9jSxS3ASfxc7ZJwKHenw2NYKnNck64?usp=sharing
+
+---
+
+# 👨‍💻 Entrega
+
+Projeto desenvolvido como atividade acadêmica de engenharia de software assistida por IA, com foco em vibecoding, engenharia reversa e desenvolvimento guiado por prompts.
