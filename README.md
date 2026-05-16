@@ -124,3 +124,5 @@ Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teach
 | :--- | :--- | :---: |
 | **Formas e Design — SVG Shape Generator (MVP+)** | Projeto de engenharia reversa evoluído para um produto autoral. Consiste em uma ferramenta interativa de geração e manipulação de formas SVG, com foco em design generativo, UI moderna e experimentação visual em tempo real usando HTML, CSS e JavaScript. | [Ver Projeto (GitHub)](https://github.com/mouraanabeatriz799-spec/Trabalho-de-segunda--Formas-e-Design-) |
 
+
+
